@@ -1,0 +1,5 @@
+#Auto generated files
+autogendir/*
+
+#static files
+names.txt
